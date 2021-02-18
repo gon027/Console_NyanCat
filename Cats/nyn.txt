@@ -1,0 +1,134 @@
+nay1
+         #################         
+        #                 #        
+       #                   #       
+       #        #  #       #       
+       #   #               #       
+       #            EE #   #  EE   
+       #           E  E    # E  E  
+       #       #   E   E   #E   E  
+       #           E    EEEE    E  
+       #    #      E            E  
+      ##        # E              E 
+   #####  #       E   oo     oo  E 
+ ##    #          E   oo   Y oo  E 
+ #   ###      #   E pp         ppE 
+  #### #   #      E pp o  o  o ppE 
+       #           E   ooooooo  E  
+       ##           E          E   
+       # ############EEEEEEEEEE    
+       #  # #  #      #  # #  #    
+       ###   ###       ###  ###    
+
+nay2
+         #################         
+        #                 #        
+       #                   #       
+       #        #  #       #       
+       #   #               #       
+       #            EE #   #  EE   
+       #           E  E    # E  E  
+       #       #   E   E   #E   E  
+       #           E    EEEE    E  
+       #    #      E            E  
+     ###        # E              E 
+   ##  #  #       E   oo     oo  E 
+  #    #          E   oo   Y oo  E 
+ #  ####      #   E pp         ppE 
+ #  #  #   #      E pp o  o  o ppE 
+  ##   #           E   ooooooo  E  
+       ##           E          E   
+      #  ############EEEEEEEEEE    
+      #  # #  #      #  # #  #     
+      ###   ###       ###  ###     
+
+
+nay3
+          #################        
+         #                 #       
+        #                   #      
+        #        #  #       #      
+        #   #               #      
+        #           EE  #   # EE   
+        #          E  E     #E  E  
+        #       #  E   E    E   E  
+  ####  #          E    EEEE    E  
+ #   ####    #     E            E  
+ ##    ##        #E              E 
+   #### #  #      E   oo     oo  E 
+      ###         E   oo   Y oo  E 
+        #      #  E pp         ppE 
+        #   #     E pp o  o  o ppE 
+       ##          E   ooooooo  E  
+      ####          E          E   
+     #   ############EEEEEEEEEE    
+     #  # #  #      #  # #  #      
+     ###   ###       ###  ###      
+
+
+nay4
+          #################        
+         #                 #       
+        #                   #      
+        #        #  #       #      
+        #   #       EE      # EE   
+        #          E  E #   #E  E  
+        #          E   E    E   E  
+  ##    #       #  E    EEEE    E  
+ #  #   #          E            E  
+ #  #####    #    E              E 
+  #     #        #E   oo     oo  E 
+   ###  #  #      E   oo   Y oo  E 
+      ###         E pp         ppE 
+        #      #  E pp o  o  o ppE 
+        #   #      E   ooooooo  E  
+       ##           E          E   
+      # ##           EEEEEEEEEE    
+     #   ################## #      
+     #  # #  #      #  # #  #      
+     ###  ###       ###   ###      
+
+
+nay5
+         #################         
+        #                 #        
+       #                   #       
+       #        #  #       #       
+       #   #               #       
+       #           EE  #   # EE    
+       #          E  E     #E  E   
+ ####  #       #  E   E    E   E   
+ #  ## #          E    EEEE    E   
+ ##  ###    #     E            E   
+  ##  ##        #E              E  
+   ##  #  #      E   oo     oo  E  
+    ####         E   oo   Y oo  E  
+      ##      #  E pp         ppE  
+       #   #     E pp o  o  o ppE  
+       #          E   ooooooo  E   
+      ###          E          E    
+     #   ###########EEEEEEEEEE     
+     #  ## #  #     #  # #  #      
+     ####  ###       ###  ##       
+
+nay6
+         #################         
+        #                 #        
+       #                   #       
+       #        #  #       #       
+       #   #               #       
+       #            EE #   #  EE   
+       #           E  E    # E  E  
+       #       #   E   E   #E   E  
+  ##   #           E    EEEE    E  
+ #  #  #    #      E            E  
+ #  ####        # E              E 
+  #    #  #       E   oo     oo  E 
+   ##  #          E   oo   Y oo  E 
+     ###      #   E pp         ppE 
+       #   #      E pp o  o  o ppE 
+       #           E   ooooooo  E  
+       ##           E          E   
+      #  ############EEEEEEEEEE    
+      #  # #  #      #  # #  #     
+      ###   ###       ###  ###     
